@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\bin\Debug\netstandard2.0\MovieProject.Entities.dll
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\obj\Debug\netstandard2.0\MovieProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\obj\Debug\netstandard2.0\MovieProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\obj\Debug\netstandard2.0\MovieProject.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\bin\Debug\netstandard2.0\MovieProject.DataAccess.deps.json
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\bin\Debug\netstandard2.0\MovieProject.DataAccess.dll
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\bin\Debug\netstandard2.0\MovieProject.DataAccess.pdb
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\bin\Debug\netstandard2.0\MovieProject.Entities.pdb
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\obj\Debug\netstandard2.0\MovieProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\obj\Debug\netstandard2.0\MovieProject.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\obj\Debug\netstandard2.0\MovieProject.DataAccess.dll
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.DataAccess\obj\Debug\netstandard2.0\MovieProject.DataAccess.pdb

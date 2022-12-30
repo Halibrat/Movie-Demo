@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\bin\Debug\netstandard2.0\MovieProject.Entities.deps.json
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\bin\Debug\netstandard2.0\MovieProject.Entities.dll
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\bin\Debug\netstandard2.0\MovieProject.Entities.pdb
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\obj\Debug\netstandard2.0\MovieProject.Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\obj\Debug\netstandard2.0\MovieProject.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\obj\Debug\netstandard2.0\MovieProject.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\obj\Debug\netstandard2.0\MovieProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\obj\Debug\netstandard2.0\MovieProject.Entities.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\obj\Debug\netstandard2.0\MovieProject.Entities.dll
+C:\Users\Lenovo\Desktop\Movie\MovieProject\MovieProject.Entities\obj\Debug\netstandard2.0\MovieProject.Entities.pdb

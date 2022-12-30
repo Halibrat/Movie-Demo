@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="log4net.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Kodlama.io\2.Hafta\FinalProject\Core\Core.csproj" />
+    <ProjectReference Include="..\MovieProject.Business\MovieProject.Business.csproj" />
+    <ProjectReference Include="..\MovieProject.DataAccess\MovieProject.DataAccess.csproj" />
+    <ProjectReference Include="..\MovieProject.Entities\MovieProject.Entities.csproj" />
+  </ItemGroup>
+
+
+</Project>
